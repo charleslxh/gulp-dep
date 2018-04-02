@@ -1,6 +1,6 @@
 {
   "name": "gulp-dep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A gulp task plugin to deploy application.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/charleslxh/gulp-dep#readme",
   "dependencies": {
-    "node-dep": "^1.0.0"
+    "node-deployer": "^1.0.1"
   }
 }
