@@ -1,6 +1,6 @@
 {
   "name": "gulp-dep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gulp task plugin to deploy application.",
   "main": "index.js",
   "scripts": {
