@@ -1,6 +1,6 @@
 'use strict'
 
-var Dep = require('dep');
+var Dep = require('node-deployer');
 
 module.exports = function(options, callback) {
   var dep = new Dep(options);
